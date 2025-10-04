@@ -1,8 +1,0 @@
-[submodule "kai-ai-model"]
-	path = kai-ai-model
-	url = https://github.com/Delta-K-rist/kai-ai-model.git
-	branch = main
-[submodule "RailGuard-PWA"]
-	path = RailGuard-PWA
-	url = https://github.com/HeraldoArman/RailGuard-PWA.git
-	branch = main
